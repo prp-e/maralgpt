@@ -1,6 +1,6 @@
 # MaralGPT Inference Tools
 
-<span align="center"><img src="maralgpt-logo-main.png" width=256px height=256px /></span>
+<p align="center"><img src="maralgpt-logo-main.png" width=256px height=256px /></p>
 
 _MaralGPT_ is a _Larage Language Model_ project launched in middle of the year 2023 by Iranian entrepreneur and engineer [Muhammadreza Haghiri](https://haghiri75.com/en) as an attempt to improve the AI for Persian language and also it is a part of [Mann-E](https://manne.ir) project.
 
