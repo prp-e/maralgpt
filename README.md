@@ -13,3 +13,5 @@ _MaralGPT_ is a _Larage Language Model_ project launched in middle of the year 2
 | [MaralGPT Mistral 7B v0.1](https://huggingface.co/MaralGPT/MaralGPT-Mistral-7B-v-0-1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prp-e/maralgpt/blob/main/Maral_Mistral_Inference.ipynbb) | This is the state-of-the-art model based on Mistral 7B |
 
 ## Considerations
+
+* Alpaca Persian is translated using a machine. So the results may be a little off. Please consider this while using the model.
