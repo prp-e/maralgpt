@@ -4,4 +4,4 @@ _MaralGPT_ is a _Larage Language Model_ project launched in middle of the year 2
 
 ## Dataset
 
-1. The _mistral_ version is trained on [Alpaca Persian](), thanks to Sina Rashidi who translated the Alpaca dataset to Persian.
+1. The _mistral_ version is trained on [Alpaca Persian](https://huggingface.co/datasets/sinarashidi/alpaca-persian), thanks to Sina Rashidi who translated the Alpaca dataset to Persian.
