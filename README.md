@@ -8,6 +8,10 @@ _MaralGPT_ is a _Larage Language Model_ project launched in middle of the year 2
 
 1. The _mistral_ version is trained on [Alpaca Persian](https://huggingface.co/datasets/sinarashidi/alpaca-persian), thanks to Sina Rashidi who translated the Alpaca dataset to Persian.
 
+## Chagelong 
+
+* `Nov 9 2023` : Just fixed minor issues with the [Huggingface PEFT](https://github.com/huggingface/peft) and GPTQ libraries. 
+
 ## Notebooks
 
 | Model | Notebook | Description |
